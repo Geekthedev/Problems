@@ -1,0 +1,109 @@
+SYSTEMS ENGINEERING 
+===================
+
+1. Custom Operating System Kernel (modular microkernel or monolith)
+2. Process Scheduler with Pluggable Policies (ML-aware too)
+3. File System from Scratch (log-structured or journaling)
+4. Virtual Memory Engine (paging + page replacement simulator)
+5. Real-Time OS Kernel (RTOS for embedded devices)
+6. Custom Shell with Plugin Architecture
+7. Linux Clone for IoT Systems (lightweight init + minimal syscalls)
+8. Custom Init System (init.d/systemd alternative)
+9. Network Stack (TCP/IP or QUIC over raw sockets)
+10. Embedded Debugger for Bare-metal Boards
+11. Static Binary Rewriter (for post-compilation optimizations)
+12. OS-level Sandboxing Engine (like Firejail)
+13. Kernel Module Loader/Unloader Daemon
+14. Page Fault Tracker with Visualization
+15. Virtual Filesystem Router (bind real FS into layered VFS)
+16. I/O Scheduler Simulator (FIFO, Deadline, CFQ)
+17. Self-Healing Daemon Framework (restarts, logs, dependencies)
+18. Filesystem Benchmark Suite
+19. Terminal Multiplexer (tmux alternative from scratch)
+20. Microservice Container Runtime (like containerd, but barebones)
+21. File Encryption System using Block Devices
+22. OS ABI Compatibility Layer (run binaries cross-arch)
+23. Trap and Interrupt Handler Visualizer
+24. Hypervisor/VM Monitor for Teaching
+25. Virtual Device Driver Simulator
+26. CPU Context Switch Visualizer
+27. Hardware Interrupt Profiler
+28. User-Space System Call Proxy
+29. OS Panic Dump Analyzer Tool
+30. RAM Block Allocator (Buddy System, Slab, etc.)
+31. Kernel Lock Profiler and Deadlock Detector
+32. Virtual Terminal Subsystem
+33. Embedded Diagnostics Over UART
+34. Cgroup-Based Resource Throttler
+35. Custom POSIX Threading Library
+36. Lightweight OS Logging Subsystem
+37. Low-Level Secure Boot Chain Emulator
+38. ELF Binary Loader and Linker Tool
+39. UEFI Bootable OS Image Builder
+40. USB Stack from Scratch (Host/Device)
+41. Custom BIOS Emulator
+42. Portable Compiler + Linker CLI Suite
+43. VFS Data Caching Daemon (Prefetch + TTL)
+44. Filesystem Trash Bin System (Soft-deletion layer)
+45. Embedded Scheduler for Soft Real-Time Apps
+46. OS Debugging CLI (like `dmesg`, `strace`, `lsof`)
+47. Custom Timekeeping System (tickless vs tick-based)
+48. Filesystem Diff and Repair Engine
+49. Open Source IOMMU Implementation (for sandboxing)
+50. Terminal Graphics Engine (low-level TUI/GUI)
+
+
+
+ALGORITHM ENGINEERING 
+=====================
+
+51. High-Performance Cache-Aware Sort Engine (merge/hybrid)
+52. Real-Time Event Stream Join Engine
+53. Pathfinding Engine (D* Lite, Theta*, ARA*)
+54. Incremental Graph Search Engine (reactive queries)
+55. Scalable Bloom Filter as a Service
+56. Real-Time Collision Detection Engine (2D/3D)
+57. Custom Constraint Solver (for scheduling problems)
+58. Parallel Disjoint-Set Union System (DSU with rollback)
+59. Trie-Based Indexing System with Compression
+60. Persistent Segment Tree + Undo Redo Tracker
+61. K-way Merge Tree Engine (for data lakes)
+62. External Memory Sorting for 1TB+ Data
+63. Tree Decomposition Toolkit (for graph DP)
+64. Range Query Optimizer with Lazy Evaluation
+65. SAT Solver + CNF Translator from DSL
+66. LRU/LFU Adaptive Cache Simulator
+67. Fast Approximate Nearest Neighbor Index (like FAISS)
+68. Hypergraph Partitioning Engine
+69. Online Dynamic Connectivity Checker
+70. Red-Black Tree vs AVL Tree Benchmark Engine
+71. Suffix Array + LCP Engine with SIMD
+72. Real-Time Convex Hull Tracker
+73. DAG-based Topological Change Tracker
+74. Hashing Library (Murmur, SipHash, Blake3 benchmarks)
+75. Real-Time MapReduce Framework (for in-memory systems)
+76. Dynamic 2D Segment Tree for Image Operations
+77. Polynomial Arithmetic Library (FFT, NTT, etc.)
+78. Geometric Range Tree Engine
+79. Advanced Network Flow Solver (Push-relabel, Dinic)
+80. Parallel String Search Engine (Aho-Corasick, KMP, Bitap)
+81. Multi-dimensional DP Visualizer + Optimizer
+82. Streaming Frequency Sketches (Count-min, HyperLogLog)
+83. Functional Graph Traversal Engine
+84. Live Graph Compression and Rehydration Engine
+85. Integer Linear Programming Solver Core
+86. Algebra System for Symbolic Computation (CAS-lite)
+87. Parallel BFS/DFS Engine on Real Graphs
+88. Heuristic Search Visualizer (Beam, Simulated Annealing)
+89. Backtracking Constraint Engine (Sudoku Solver Framework)
+90. Real-Time K-Nearest Neighbors Benchmark System
+91. Spatio-Temporal Query Engine
+92. Multithreaded Task DAG Scheduler (for CPU/GPU hybrid)
+93. AI Path Optimizer with Learnable Heuristics
+94. DNA Sequence Matcher (Z-algorithm, KMP, edit distance)
+95. Predictive Auto-complete Engine with Trie + ML hybrid
+96. Sparse Matrix Multiplication Engine (CSR, COO)
+97. Live Stream Similarity Detection (cosine, Jaccard, etc.)
+98. Lattice-Based Number Theory Toolkit
+99. Real-Time Adaptive Load Balancer with Flow Control
+100. Parallel Satisfiability Modulo Theory Engine
